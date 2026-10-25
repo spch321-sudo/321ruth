@@ -12,4 +12,4 @@
 
 經文：新標點和合本（cmn-cu89t）｜原文：WLC（Westminster Leningrad Codex，經 OpenScriptures morphhb）｜英文經文：World English Bible（WEB，公有領域）
 
-Service Worker 版本：路得記-294d5b2435de
+Service Worker 版本：路得記-ba4f076c592c
